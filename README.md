@@ -39,5 +39,4 @@
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayant818&show_icons=true&locale=en&layout=compact" alt="jayant818" /></p>
-<br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jayant818&show_icons=true&locale=en" alt="jayant818" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayant818&show_icons=true&locale=en" alt="jayant818" /></p>
