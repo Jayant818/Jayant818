@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **a Todo-list App**
 
-- 👨‍💻 All of my projects are available at [https://cutt.ly/TJOJ2nr](https://cutt.ly/TJOJ2nr)
+- 👨‍💻 All of my projects are available at [https://cutt.ly/TJOJ2nr](Portfolio Site)
 
 - 📝 I regularly write articles on [https://dev.to/jay123](dev.to)
 
