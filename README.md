@@ -1,4 +1,5 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![Banner](/hacker.gif)
+
 <h1 align="center">Hi 👋, I'm Jayant Yadav</h1>
 <h3 align="center">A passionate React Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -20,6 +21,7 @@
 - ⚡ Fun fact **I think I am too Lazy😴**
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -35,7 +37,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/yadavjayant"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yadavjayant" /></a></p><br><br>
 <br>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayant818&show_icons=true&locale=en&layout=compact" alt="jayant818" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayant818&show_icons=true&locale=en" alt="jayant818" /></p>
