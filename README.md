@@ -23,7 +23,10 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [How to change Material UI components to match your app&#39;s design Part 1](https://dev.to/jay123/how-to-change-material-ui-components-to-match-your-apps-design-part-1-o3f)
+- [Stop Memorizing Code](https://dev.to/jay123/stop-memorizing-code-2nad)
+- [How to make Your Own Hook](https://dev.to/jay123/how-to-make-your-own-hook-24co)
+- [How to debug Node JS Errors](https://dev.to/jay123/how-to-debug-node-js-errors-3j9i)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
