@@ -8,15 +8,15 @@
 
 - 🔭 I’m currently working on **a Todo-list App**
 
-- 👨‍💻 All of my projects are available at [https://cutt.ly/TJOJ2nr](Portfolio Site)
+- 👨‍💻 All of my projects are available at my [Portfolio Site 👆](https://cutt.ly/TJOJ2nr)
 
-- 📝 I regularly write articles on [https://dev.to/jay123](dev.to)
+- 📝 I regularly write articles on [Dev.to 👆](https://dev.to/jay123)
 
 - 💬 Ask me about **react, Javascript , DSA, MERN**
 
 - 📫 How to reach me **yadavjayant2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1e1t2Ur3HQjJy5VncvQbgvFG8rKqnvSks/view](https://drive.google.com/file/d/1e1t2Ur3HQjJy5VncvQbgvFG8rKqnvSks/view)
+- 📄 Know about my experiences [Resume 👆](https://drive.google.com/file/d/1e1t2Ur3HQjJy5VncvQbgvFG8rKqnvSks/view)
 
 - ⚡ Fun fact **I think I am too Lazy😴**
 
