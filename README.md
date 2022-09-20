@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **a Todo-list App**
 
-- 👨‍💻 All of my projects are available at my [Portfolio Site 👆](https://cutt.ly/TJOJ2nr)
+- 👨‍💻 All of my projects are available at my [Portfolio Site 👆](https://jayant818.netlify.app)
 
-- 📝 I regularly write articles on [Dev.to 👆](https://dev.to/jay123)
+- 📝 I regularly write articles on [Dev.to 👆](https://dev.to/jayant818)
 
 - 💬 Ask me about **react, Javascript , DSA, MERN**
 
