@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at my [Portfolio Site 👆](https://jayant818.netlify.app)
 
-- 📝 I regularly write articles on [Dev.to 👆](https://dev.to/jayant818)
+- 📝 I regularly write articles on [Dev.to 👆](https://dev.to/jay818)
 
 - 💬 Ask me about **react, Javascript , DSA, MERN**
 
