@@ -20,10 +20,10 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [My Portfolio Site](https://dev.to/jay123/my-portfolio-site-28cn)
-- [How to change Material UI components to match your app&#39;s design Part 1](https://dev.to/jay123/how-to-change-material-ui-components-to-match-your-apps-design-part-1-o3f)
-- [Stop Memorizing Code](https://dev.to/jay123/stop-memorizing-code-2nad)
-- [How to make Your Own Hook](https://dev.to/jay123/how-to-make-your-own-hook-24co)
+- [How to Build a Cool GitHub Profile in 2 Minutes](https://dev.to/jay818/how-to-build-a-cool-github-profile-in-2-minutes-2fnc)
+- [My Portfolio Site](https://dev.to/jay818/my-portfolio-site-28cn)
+- [How to change Material UI components to match your app&#39;s design Part 1](https://dev.to/jay818/how-to-change-material-ui-components-to-match-your-apps-design-part-1-o3f)
+- [Stop Memorizing Code](https://dev.to/jay818/stop-memorizing-code-2nad)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
