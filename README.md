@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [Resume 👆](https://drive.google.com/file/d/1e1t2Ur3HQjJy5VncvQbgvFG8rKqnvSks/view)
 
-- ⚡ Fun fact **I think I am too Lazy😴**
+- ⚡ Fun fact **too Lazy😴**
 
 ### Blog posts
 
