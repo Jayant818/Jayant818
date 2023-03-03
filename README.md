@@ -20,10 +20,10 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Optimize Your Next JS App for SEO and Boost Your Rankings](https://dev.to/jay818/how-to-optimize-your-next-js-app-for-seo-and-boost-your-rankings-ip6)
 - [Maximize Your Site&#39;s Speed with Pre-Rendering in Next JS](https://dev.to/jay818/maximize-your-sites-speed-with-pre-rendering-in-next-js-cf2)
 - [Basics &amp; Routing in Next JS](https://dev.to/jay818/basics-routing-in-next-js-58hj)
 - [How to Build a Cool GitHub Profile in 2 Minutes](https://dev.to/jay818/how-to-build-a-cool-github-profile-in-2-minutes-2fnc)
-- [My Portfolio Site](https://dev.to/jay818/my-portfolio-site-28cn)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
