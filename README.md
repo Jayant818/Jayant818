@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a very Intersting Time Management App**
 
-- 👨‍💻 All of my projects are available at my [Portfolio Site 👆](https://jayant818.netlify.app)
+- 👨‍💻 All of my projects are available at my [Portfolio Site 👆](https://jayantyadav.netlify.app/)
 
 - 📝 I regularly write articles on [Dev.to 👆](https://dev.to/jay818)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yadavjayant2003@gmail.com**
 
-- 📄 Know about my experiences [Resume 👆](https://drive.google.com/file/d/1e1t2Ur3HQjJy5VncvQbgvFG8rKqnvSks/view)
+- 📄 Know about my experiences [Resume 👆](https://drive.google.com/file/d/10SgmQLRuiktq2HJFMRwxz_prXXraw0oK/view)
 
 - ⚡ Fun fact **too Lazy😴**
 
