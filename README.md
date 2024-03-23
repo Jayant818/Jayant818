@@ -20,10 +20,10 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Day-1 of Getting an Paying Job](https://dev.to/jay818/day-1-of-getting-an-paying-job-4kig)
 - [Not so good Consistency](https://dev.to/jay818/not-so-good-consistency-3e2b)
 - [The Beginning of My Glow-Up Journey](https://dev.to/jay818/the-beginning-of-my-glow-up-journey-4229)
 - [How to Optimize Your Next JS App for SEO and Boost Your Rankings](https://dev.to/jay818/how-to-optimize-your-next-js-app-for-seo-and-boost-your-rankings-ip6)
-- [Maximize Your Site&#39;s Speed with Pre-Rendering in Next JS](https://dev.to/jay818/maximize-your-sites-speed-with-pre-rendering-in-next-js-cf2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
