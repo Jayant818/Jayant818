@@ -17,15 +17,6 @@
 
 - ⚡ Fun fact **too Lazy😴**
 
-### Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Day 2 &amp; 3 Completed](https://dev.to/jay818/day-2-3-completed-2o87)
-- [Day-1 of Getting an Paying Job](https://dev.to/jay818/day-1-of-getting-an-paying-job-4kig)
-- [Not so good Consistency](https://dev.to/jay818/not-so-good-consistency-3e2b)
-- [The Beginning of My Glow-Up Journey](https://dev.to/jay818/the-beginning-of-my-glow-up-journey-4229)
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/jay123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/jay123" height="30" width="40" /></a>
