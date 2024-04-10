@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jayant Yadav</h1>
-<h3 align="center">A passionate React Web developer from India</h3>
+<h3 align="center">A passionate Next.js Dveloper from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayant818&label=Profile%20views&color=0e75b6&style=flat" alt="jayant818" /> </p>
 
-- 🔭 I’m currently working on **a very Intersting Time Management App**
+- 🔭 I’m currently working on **DigiVote - A Cryto Vote Application**
 
 - 👨‍💻 All of my projects are available at my [Portfolio Site 👆](https://jayantyadav.netlify.app/)
 
@@ -14,8 +14,6 @@
 - 📫 How to reach me **yadavjayant2003@gmail.com**
 
 - 📄 Know about my experiences [Resume 👆](https://drive.google.com/file/d/10SgmQLRuiktq2HJFMRwxz_prXXraw0oK/view)
-
-- ⚡ Fun fact **too Lazy😴**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
