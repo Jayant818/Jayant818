@@ -1,28 +1,110 @@
 <h1 align="center">Hi 👋, I'm Jayant Yadav</h1>
-<h3 align="center">A passionate Next.js Dveloper from India</h3>
+<h3 align="center">Building high-performance DeFi and Web3 infrastructure on Solana ⚡</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayant818&label=Profile%20views&color=0e75b6&style=flat" alt="jayant818" /> </p>
 
-- 🔭 I’m currently working on **DigiVote - A Cryto Vote Application**
+---
 
-- 👨‍💻 All of my projects are available at my [Portfolio Site 👆](https://jayantyadav.netlify.app/)
+### 🚀 About Me
 
-- 📝 I regularly write articles on [Dev.to 👆](https://dev.to/jay818)
+* 🧠 Currently building a **high-efficiency Perpetual DEX on Solana**
+* 💻 1+ year of **Web2 experience** as a Software Developer
+* 🧩 **Tech Stack:** Turborepo • NestJS • Next.js • TypeScript • React Query • RabbitMQ • AWS
+* 🧑‍💻 Member of **Super 30 by Harkirat Singh** → [@kirat_tw](https://x.com/kirat_tw)
+* 🌱 **Currently learning:** Zero-Knowledge Proofs (ZK) & Solana advanced token mechanics
+* 🪶 Selected for **Ackee Cohort by Solana Foundation**
+* ✍️ I write blogs at [Dev.to 👇](https://dev.to/jay818)
+* 🌐 Portfolio → [jayantxdev.vercel.app](https://jayantxdev.vercel.app/)
+* 📄 Resume → [View here](https://drive.google.com/file/d/13btRVGC9SEnVF-agUCRGjiT6EbivM8CO/view?usp=sharing)
+* 🐦 Follow me on [X (Twitter)](https://x.com/Jayant818x)
 
-- 💬 Ask me about **react, Javascript , DSA, MERN**
+---
 
-- 📫 How to reach me **yadavjayant2003@gmail.com**
+### 🧩 Featured Projects
 
-- 📄 Know about my experiences [Resume 👆](https://drive.google.com/file/d/10SgmQLRuiktq2HJFMRwxz_prXXraw0oK/view)
+#### ⚡ [Arbitron – The Fantasy Trading Arena on Solana](https://github.com/jayant818/arbitron/)
 
-<h3 align="left">Connect with me:</h3>
+> Live → [arbitron.fun](https://www.arbitron.fun/)
+> **Arbitron transforms crypto trading into a fun, fair, and skill-based competition.**
+> Join fast-paced 10-minute contests, strategically draft your virtual portfolio, and compete for prizes—all without liquidation risks.
+
+**Highlights:**
+
+* 🎮 Gamified trading – strategy-based gameplay
+* 🛡️ No liquidation, no real risk — pure competition
+* ⚡ Lightning-fast 10-minute rounds
+* 🔒 Provably fair via **Zero-Knowledge Proofs (Bonsol ZK)**
+* 🏆 Skill-based rewards + NFT badges
+* 📡 Powered by **Solana, Anchor, Pyth Oracles, Prisma, Redis, and WebSockets**
+
+**Architecture Overview:**
+
+* Solana (Anchor Framework) + Bonsol ZK for fair results
+* PostgreSQL + Prisma for contests and user data
+* Redis + WebSockets for live leaderboards
+* Risc0 ZK guest programs for on-chain verifications
+* Next.js 15 + TypeScript + shadcn/ui for UI
+* Monorepo setup with multiple services (aggregator, crank, poller, zk-prep)
+
+License: MIT
+
+---
+
+#### 🧮 [Exness Simulator](https://github.com/Jayant818/exness-simulator)
+
+> A trading simulator replicating real-world exchange mechanics for educational and backtesting purposes.
+
+#### 🤖 [AI Code Reviewer](https://github.com/Jayant818/ai-code-reviewer)
+
+> An **AI-powered static code reviewer** that helps developers identify inefficiencies and improvements via LLM integration.
+
+#### 🧠 [Imaginify – AI Image Transformation Platform](https://github.com/Jayant818/Imaginify)
+
+> Live → [imaginifynew.vercel.app](https://imaginifynew.vercel.app/)
+> Full-stack AI project built with **Next.js, Cloudinary, and OpenAI API** to enhance, restore, and edit images in real-time.
+
+#### 🗳️ [DigiVote – Ethereum-based Voting DApp](https://github.com/Jayant818/DigiVote)
+
+> A **secure blockchain-based voting platform** on Ethereum that ensures transparency and immutability using smart contracts.
+
+---
+
+### 🧰 Tech Stack
+
+**Web3 / Blockchain:** Solana • Anchor • TypeScript SDKs • Rust (learning) • Ethereum • Ethers.js • ZK Proofs
+**Backend:** NestJS • Node.js • Express • RabbitMQ • MongoDB • PostgreSQL • AWS
+**Frontend:** Next.js • React • Tailwind • Zustand • React Query
+**DevOps:** Docker • PM2 • AWS EC2 • Cloudflare
+**Architecture:** Monorepo setups with Turborepo for scalable development
+
+---
+
+### 🌱 Currently Exploring
+
+* Solana Perp DEX architecture and order matching
+* Zero-Knowledge Proofs (ZK-SNARKs, STARKs)
+* Token Extensions & Compressed NFTs
+* Rust concurrency and security
+* Advanced hybrid Web2 ↔ Web3 architecture design
+
+---
+
+### ✍️ Blogs
+
+I write about **Solana**, **Web3 infrastructure**, and **scalable full-stack systems** → [dev.to/jay818](https://dev.to/jay818)
+
+---
+
+### 🤝 Connect with Me
+
 <p align="left">
-<a href="https://dev.to/https://dev.to/jay123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/jay123" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jayant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayant" height="30" width="40" /></a>
+<a href="https://x.com/Jayant818x" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" height="30" width="40" /></a>
+<a href="https://dev.to/jay818" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jayant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://jayantxdev.vercel.app/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayant818&show_icons=true&locale=en&layout=compact" alt="jayant818" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayant818&show_icons=true&locale=en" alt="jayant818" /></p>
