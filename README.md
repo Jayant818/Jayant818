@@ -10,7 +10,6 @@
 * 🧠 Currently building a **high-efficiency Perpetual DEX on Solana**
 * 💻 1+ year of **Web2 experience** as a Software Developer
 * 🧩 **Tech Stack:** Turborepo • NestJS • Next.js • TypeScript • React Query • RabbitMQ • AWS
-* 🧑‍💻 Member of **Super 30 by Harkirat Singh** → [@kirat_tw](https://x.com/kirat_tw)
 * 🌱 **Currently learning:** Zero-Knowledge Proofs (ZK) & Solana advanced token mechanics
 * 🪶 Selected for **Ackee Cohort by Solana Foundation**
 * ✍️ I write blogs at [Dev.to 👇](https://dev.to/jay818)
